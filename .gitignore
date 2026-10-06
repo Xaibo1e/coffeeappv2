@@ -1,0 +1,4 @@
+echo node_modules/ > .gitignore
+echo serverapi_ts/.env >> .gitignore
+echo coffeeappv2/build/ >> .gitignore
+echo coffeeappv2/.dart_tool/ >> .gitignore
